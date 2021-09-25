@@ -1,22 +1,22 @@
 [
   {
     "name": "Site HebergeTonCube",
-    "url": "https://redirect.hebergetoncube.com",
+    "url": "http://redirect.hebergetoncube.com",
     "icon": "https://favicons.githubusercontent.com/redirect.hebergetoncube.com",
     "slug": "site-heberge-ton-cube",
     "status": "down",
-    "uptime": "91.60%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "91.60%",
-    "time": 205,
-    "timeDay": 205,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "uptime": "78.11%",
+    "uptimeDay": "78.11%",
+    "uptimeWeek": "78.11%",
+    "uptimeMonth": "78.11%",
+    "uptimeYear": "78.11%",
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2021-09-25": 2
+      "2021-09-25": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 301,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 279,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
