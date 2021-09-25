@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/37.44.238.146",
     "slug": "site-heberge-ton-cube",
     "status": "up",
-    "uptime": "0.90%",
-    "uptimeDay": "0.90%",
-    "uptimeWeek": "0.90%",
-    "uptimeMonth": "0.90%",
-    "uptimeYear": "0.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 230,
     "timeDay": 230,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
-    "dailyMinutesDown": {
-      "2021-09-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
