@@ -5,8 +5,8 @@ repo: htc-status # The name of this repository
 sites:
   - name: Site HebergeTonCube
     url: http://redirect.hebergetoncube.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Game01 HebergeTonCube
+    url: https://game01.hebergetoncube.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
