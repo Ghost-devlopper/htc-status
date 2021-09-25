@@ -4,19 +4,19 @@
     "url": "http://redirect.hebergetoncube.com",
     "icon": "https://favicons.githubusercontent.com/redirect.hebergetoncube.com",
     "slug": "site-heberge-ton-cube",
-    "status": "down",
-    "uptime": "78.11%",
-    "uptimeDay": "78.11%",
-    "uptimeWeek": "78.11%",
-    "uptimeMonth": "78.11%",
-    "uptimeYear": "78.11%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "72.85%",
+    "uptimeDay": "72.85%",
+    "uptimeWeek": "72.85%",
+    "uptimeMonth": "72.85%",
+    "uptimeYear": "72.85%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2021-09-25": 6
+      "2021-09-25": 9
     }
   },
   {
