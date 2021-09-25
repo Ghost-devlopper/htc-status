@@ -4,7 +4,7 @@ repo: htc-status # The name of this repository
 
 sites:
   - name: Site HebergeTonCube
-    url: https://www.hebergetoncube.com
+    url: https://redirect.hebergetoncube.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
