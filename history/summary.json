@@ -22,7 +22,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://raw.githubusercontent.com/pterodactyl/documentation/master/.vuepress/public/favicons/favicon.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -40,7 +40,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://raw.githubusercontent.com/pterodactyl/documentation/master/.vuepress/public/favicons/favicon.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
